@@ -40,11 +40,11 @@
 
 <br/>
 
-<!-- ## 🥚 Level 1 : 프로그래밍 기본
+## 🥚 Level 1 : 프로그래밍 기본
 
 ### 기간
 
-- 2020.02.04 ~ 2020.04.10
+- 2021.02.03 ~ 2021.04.02
 
 ### 학습 목표
 
@@ -57,19 +57,20 @@
 
 |     Project      |                          Repository                          |                         Pull Request                         |
 | :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  문자열 계산기   | [java-calculator](https://github.com/lxxjn0/java-calculator) | [Pull Request](https://github.com/woowacourse/java-calculator/pull/44) |
-| 자동차 경주 게임 |  [java-racingcar](https://github.com/lxxjn0/java-racingcar)  | [Pull Request](https://github.com/woowacourse/java-racingcar/pull/93) |
-|   로또 / step1   | [java-lotto/step1](https://github.com/lxxjn0/java-lotto/tree/step1) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/161) |
-|   로또 / step2   | [java-lotto/step2](https://github.com/lxxjn0/java-lotto/tree/step2) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/178) |
-|  블랙잭 / step1  | [java-blackjack/step1](https://github.com/lxxjn0/java-blackjack/tree/step1) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/26) |
-|  블랙잭 / step2  | [java-blackjack/step2](https://github.com/lxxjn0/java-blackjack/tree/step2) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/104) |
-|   체스 / step1   | [java-chess/step1](https://github.com/lxxjn0/java-chess/tree/step1) | [Pull Request](https://github.com/woowacourse/java-chess/pull/61) |
-|   체스 / step2   | [java-chess/step2](https://github.com/lxxjn0/java-chess/tree/step2) | [Pull Request](https://github.com/woowacourse/java-chess/pull/155) |
-|   90년생 HTML    |            [html](https://github.com/lxxjn0/html)            | [Pull Request](https://github.com/woowacourse/html/pull/50)  |
+|  문자열 계산기, 자동차 경주 게임 / step1  | [java-racingcar](https://github.com/jaeseongDev/java-racingcar/tree/step1) | [Pull Request](https://github.com/woowacourse/java-racingcar/pull/195) |
+|  문자열 계산기, 자동차 경주 게임 / step2  | [java-racingcar](https://github.com/jaeseongDev/java-racingcar/tree/step2) | [Pull Request](https://github.com/woowacourse/java-racingcar/pull/229) |
+|   로또 / step1   | [java-lotto/step1](https://github.com/jaeseongDev/java-lotto/tree/step1) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/264) |
+|   로또 / step2   | [java-lotto/step2](https://github.com/jaeseongDev/java-lotto/tree/step2) | [Pull Request](https://github.com/woowacourse/java-lotto/pull/284) |
+|  블랙잭 / step1  | [java-blackjack/step1](https://github.com/jaeseongDev/java-blackjack/tree/step1) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/110) |
+|  블랙잭 / step2  | [java-blackjack/step2](https://github.com/jaeseongDev/java-blackjack/tree/step2) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/204) |
+|   체스 / step1   | [java-chess/step1](https://github.com/jaeseongDev/java-chess/tree/step1) | [Pull Request](https://github.com/woowacourse/java-chess/pull/171) |
+|   체스 / step2   | [java-chess/step2](https://github.com/jaeseongDev/java-chess/tree/step2) | [Pull Request](https://github.com/woowacourse/java-chess/pull/212) |
+|   투두리스트 / step1    |            [html](https://github.com/jaeseongDev/js-todo-list-step1/tree/jaeseongdev)            | [Pull Request](https://github.com/woowacourse/js-todo-list-step1/pull/12)  |
+|   투두리스트 / step2    |            [html](https://github.com/jaeseongDev/js-todo-list-step2/tree/jaeseongdev)            | [Pull Request](https://github.com/woowacourse/js-todo-list-step2/pull/5)  |
 
 <br/>
 
-## 🐣 Level 2 : 웹 프로그래밍과 미니 팀 프로젝트
+<!-- ## 🐣 Level 2 : 웹 프로그래밍과 미니 팀 프로젝트
 
 ### 기간
 
