@@ -65,8 +65,8 @@
 |  블랙잭 / step2  | [java-blackjack/step2](https://github.com/jaeseongDev/java-blackjack/tree/step2) | [Pull Request](https://github.com/woowacourse/java-blackjack/pull/204) |
 |   체스 / step1   | [java-chess/step1](https://github.com/jaeseongDev/java-chess/tree/step1) | [Pull Request](https://github.com/woowacourse/java-chess/pull/171) |
 |   체스 / step2   | [java-chess/step2](https://github.com/jaeseongDev/java-chess/tree/step2) | [Pull Request](https://github.com/woowacourse/java-chess/pull/212) |
-|   투두리스트 / step1    |            [html](https://github.com/jaeseongDev/js-todo-list-step1/tree/jaeseongdev)            | [Pull Request](https://github.com/woowacourse/js-todo-list-step1/pull/12)  |
-|   투두리스트 / step2    |            [html](https://github.com/jaeseongDev/js-todo-list-step2/tree/jaeseongdev)            | [Pull Request](https://github.com/woowacourse/js-todo-list-step2/pull/5)  |
+|   투두리스트 / step1    | [js-todo-list-step1](https://github.com/jaeseongDev/js-todo-list-step1/tree/jaeseongdev)            | [Pull Request](https://github.com/woowacourse/js-todo-list-step1/pull/12)  |
+|   투두리스트 / step2    | [js-todo-list-step2](https://github.com/jaeseongDev/js-todo-list-step2/tree/jaeseongdev)            | [Pull Request](https://github.com/woowacourse/js-todo-list-step2/pull/5)  |
 
 <br/>
 
