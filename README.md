@@ -87,8 +87,8 @@
 
 |       Project        |                          Repository                          |                         Pull Request                         |
 | :------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|     체스 / step1     | [jwp-chess/step1](https://github.com/jaeseongdev/jwp-chess/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/274) |
-|     체스 / step2     | [jwp-chess/step2](https://github.com/lxxjn0/jwp-chess/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/243) |
+|     체스 / step1     | [jwp-chess/step1](https://github.com/jaeseongdev/jwp-chess/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/243) |
+|     체스 / step2     | [jwp-chess/step2](https://github.com/lxxjn0/jwp-chess/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/274) |
 |   지하철 경로 조회 / stpe1   | [atdd-subway-path](https://github.com/jaeseongDev/atdd-subway-path/tree/step1) | [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/53) |
 |   지하철 경로 조회 / stpe2   | [atdd-subway-path](https://github.com/jaeseongDev/atdd-subway-path/tree/step2) | [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/107) |
 |   지하철 요금 조회   | [atdd-subway-fare](https://github.com/jaeseongDev/atdd-subway-fare/tree/step1) | [Pull Request](https://github.com/woowacourse/atdd-subway-fare/pull/6) |
