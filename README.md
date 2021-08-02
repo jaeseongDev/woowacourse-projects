@@ -70,11 +70,11 @@
 
 <br/>
 
-<!-- ## 🐣 Level 2 : 웹 프로그래밍과 미니 팀 프로젝트
+🐣 Level 2 : 웹 프로그래밍과 미니 팀 프로젝트
 
 ### 기간
 
-- 2020.04.21 ~ 2020.06.19
+- 2021.04.13 ~ 2020.06.04
 
 ### 학습 목표
 
@@ -87,41 +87,26 @@
 
 |       Project        |                          Repository                          |                         Pull Request                         |
 | :------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|     체스 / step1     | [jwp-chess/step1](https://github.com/lxxjn0/jwp-chess/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/37) |
-|     체스 / step2     | [jwp-chess/step2](https://github.com/lxxjn0/jwp-chess/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/87) |
-|     체스 / step3     | [jwp-chess/step3](https://github.com/lxxjn0/jwp-chess/tree/step3) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/122) |
-|     체스 / step4     | [jwp-chess/step4](https://github.com/lxxjn0/jwp-chess/tree/step4) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/209) |
-|   지하철 정보 관리   | [atdd-subway-admin](https://github.com/lxxjn0/atdd-subway-admin) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin/pull/6) |
-|   지하철 경로 조회   | [atdd-subway-path](https://github.com/lxxjn0/atdd-subway-path) | [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/47) |
-| 지하철 경로 즐겨찾기 | [atdd-subway-favorite](https://github.com/lxxjn0/atdd-subway-favorite) | [Pull Request](https://github.com/woowacourse/atdd-subway-favorite/pull/52) |
-|  지하철 Admin CRUD   | [atdd-subway-admin-frontend](https://github.com/lxxjn0/atdd-subway-admin-frontend) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin-frontend/pull/54) |
-|    사용자 이야기     | [woowa-userstory-2020](https://github.com/lxxjn0/woowa-userstory-2020) | [Pull Request](https://github.com/woowacourse/woowa-userstory-2020/pull/51) |
-|      Todo List       |        [todolist](https://github.com/lxxjn0/todolist)        |                       comming soon...                        |
+|     체스 / step1     | [jwp-chess/step1](https://github.com/jaeseongdev/jwp-chess/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/274) |
+|     체스 / step2     | [jwp-chess/step2](https://github.com/lxxjn0/jwp-chess/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/243) |
+|   지하철 경로 조회 / stpe1   | [atdd-subway-path](https://github.com/jaeseongDev/atdd-subway-path/tree/step1) | [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/53) |
+|   지하철 경로 조회 / stpe2   | [atdd-subway-path](https://github.com/jaeseongDev/atdd-subway-path/tree/step2) | [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/107) |
+|   지하철 요금 조회   | [atdd-subway-fare](https://github.com/jaeseongDev/atdd-subway-fare/tree/step1) | [Pull Request](https://github.com/woowacourse/atdd-subway-fare/pull/6) |
 
 <br/>
+
+
 
 ## 📹 Tecotalk : 크루들에게 지식을 공유하는 방법
 
-### 발표 주제 : 빌드와 배포
+### 발표 주제 : MVC 패턴
 
-- [스티치의 빌드와 배포 - Youtube](https://www.youtube.com/watch?v=6SvUZqbU37E&t=2s)
-
-<br/>
-
-## 👋🏻 SUPP 프로젝트 : 식전 수프처럼 페어와의 협업 맛을 돋우는 에피타이저
-
-### 서비스
-
-- [SUPP](https://d10qlfpm4ciz64.cloudfront.net/)
-- [SUPP 소개글](https://github.com/woowa-supp/supp/blob/master/README.md)
-
-### Github Repository
-
-- [supp](https://github.com/woowa-supp/supp)
-- [supp-chrome-extension](https://github.com/woowa-supp/supp-chrome-extension)
+- [제리의 MVC 패턴 - Youtube](https://www.youtube.com/watch?v=ogaXW6KPc8I)
 
 <br/>
 
+
+<!-- ## 
 ## 🐥 Level 3 : 팀 프로젝트
 
 ### 기간
