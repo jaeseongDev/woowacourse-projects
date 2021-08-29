@@ -106,47 +106,41 @@
 <br/>
 
 
-<!-- 
 ## 🐥 Level 3 : 팀 프로젝트
 
 ### 기간
 
-- 2020.07.07 ~ 2020.08.28
+- 2021.06.22 ~ 2020.08.13
 
 ### 학습 목표
 
 - 개발 프로세스 기반으로 프로젝트 진행, 협업하는 경험을 한다.
 - 배포를 자동화하고, 피드백을 받아 지속적으로 개선하는 경험을 한다.
 
-### 진행 미션
-
-- 직고래 프로젝트
-
 <br/>
 
-## 🐳 직고래 프로젝트 : 조직 내에서 중고 거래를!
+### 서비스명 및 설명
+> 다라쓰(Darass) : 어디든지 쉽고 간편하게 다는 댓글 모듈 서비스
 
-> 참고. 서비스 명이 샐러리(seller-lee)에서 직고래(jikgorae)로 변경되었습니다. repository의 이름에서 혼용되고 있는 점 양해 부탁드립니다 :)
+### Service Site
 
-### 서비스
-
-- [안드로이드 어플 링크](https://play.google.com/store/apps/details?id=com.sellerleecompany.jikgorae)
-- [직고래 데모 사이트](https://sites.google.com/woowahan.com/wooteco-demo/%EC%A7%81%EA%B3%A0%EB%9E%98)
-- [직고래 기술 블로그](https://seller-lee.github.io/)
+- [다라쓰 공식 홈페이지](https://sites.google.com/woowahan.com/wooteco-demo/%EC%A7%81%EA%B3%A0%EB%9E%98)
+- [댓글 데모 사이트](https://darass-test.tistory.com/1)
 
 ### Github Repository
 
-- [seller-lee-company](https://github.com/woowacourse-teams/2020-seller-lee-company)
-- [seller-lee.github.io](https://github.com/seller-lee/seller-lee.github.io)
+- [2021-darass](https://github.com/woowacourse-teams/2021-darass)
 
 ### 관련 영상
 
-- [1차 데모 - 서비스 및 팀 소개(발표자)](https://www.youtube.com/watch?v=JPmA2tIt8ME)
-- [2차 데모 - 빌드, 배포 그리고 자동화](https://www.youtube.com/watch?v=67TDNiSYRTM)
-- [최종 데모 - 개발문화와 프로젝트를 통해 느낀 점](https://www.youtube.com/watch?v=shq5CLRWB_I)
-- [프로젝트 소개 - 직고래](https://www.youtube.com/watch?v=ECl14dt7sQU)
+- [1차 데모 - 서비스 및 팀 소개, 팀 문화](https://www.youtube.com/watch?v=A_CtcuMcieY)
+- [2차 데모 - 계획한 이슈 목록 및 완료 목록, Git 브랜치 전략, API 설계](https://www.youtube.com/watch?v=ysz3Zbiy11I)
+- [3차 데모 - WS+WAS 연결, API 문서화, 테스트 전략, 로깅 - 해당 발표 직접 담당✋](https://www.youtube.com/watch?v=RjfRiJBg65M)
+- [최종 데모 - 다라쓰 (준비중)](...)
 
 <br/>
+
+<!-- 
 
 ## 🐓 Level 4 : 팀 프로젝트 유지 보수 및 웹 백엔드에 깊이를 더하는 단계
 
