@@ -82,6 +82,7 @@
 - TDD, ATDD 기반으로 웹 애플리케이션을 개발하고 리팩토링하는 경험을 한다.
 - 구현한 프로그램을 서버에 배포하는 경험을 한다.
 - 팀 프로젝트를 통해 팀원들간의 소통, 협업, 회고 경험을 한다.
+- 웹 프론트엔드에 대한 기본 역량을 쌓고 데이터베이스 설계하는 경험을 합니다.
 
 ### 진행 미션
 
@@ -97,13 +98,6 @@
 
 
 
-## 📹 Tecotalk : 크루들에게 지식을 공유하는 방법
-
-### 발표 주제 : MVC 패턴
-
-- [제리의 MVC 패턴 - Youtube](https://www.youtube.com/watch?v=ogaXW6KPc8I)
-
-<br/>
 
 
 ## 🐥 Level 3 : 팀 프로젝트
@@ -116,6 +110,7 @@
 
 - 개발 프로세스 기반으로 프로젝트 진행, 협업하는 경험을 한다.
 - 배포를 자동화하고, 피드백을 받아 지속적으로 개선하는 경험을 한다.
+- 서비스를 기획, 구현, 배포해 실 사용자가 사용하도록 개발하는 경험을 합니다.
 
 <br/>
 
@@ -140,64 +135,53 @@
 
 <br/>
 
-<!-- 
 
 ## 🐓 Level 4 : 팀 프로젝트 유지 보수 및 웹 백엔드에 깊이를 더하는 단계
 
 ### 기간
 
-- 2020.09.08 ~ 2020.11.27
+- 2021.08.24 ~ 2021.10.31
 
 ### 학습 목표
 
 - 웹 서버를 직접 구현해 HTTP를 이해하고, 서블릿 컨테이너의 동작 원리를 이해한다.
 - JDBC 라이브러리, MVC, DI 프레임워크 구현을 통해 Spring 프레임워크의 동작 원리를 이해한다.
-- 레거시 프로젝트를 리팩토링하는 경험을 한다.
+- 레거시 코드를 리팩토링하면서 안정적으로 서비스를 운영해 보는 경험을 합니다.
 - 객체지향 설계, 인증 및 보안, WebSocket 경험을 한다.
 - 대용량 서비스를 위한 시스템 아키텍처 설계, 데이터 처리 경험을 한다.
+- 웹 백엔드 개발자가 알아야할 최소한의 컴퓨터 사이언스 지식을 학습합니다.
 
 ### 진행 미션
 
-- comming soon...
+|       Project        |                          Repository                          |                         Pull Request                         |
+| :------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|     HTTP 서버 구현하기 / step1     | [jwp-dashboard-http/step1](https://github.com/jaeseongdev/jwp-dashboard-http/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/10) |
+
+<br/>
+
+## 📹 Tecotalk : 크루들에게 지식을 공유하는 방법
+
+### 학습 목표
+
+- 현장에서 필요한 말하기 능력을 향상시키기 위해 진행하는 우아한테크코스만의 문화입니다.
+
+### 발표 주제 : MVC 패턴
+
+- [제리의 MVC 패턴 - Youtube](https://www.youtube.com/watch?v=ogaXW6KPc8I)
 
 <br/>
 
 ## 🖋 Writing : 글쓰기 코스
 
+### 학습 목표
+
+- 현장에서 필요한 글쓰기 능력을 향상시키기 위해 진행하는 우아한테크코스만의 문화입니다.
+
 ### 진행 미션
 
 | Level |                 Topic                  |                          Repository                          |                         Pull Request                         |
 | :---: | :------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|   1   |      우아한테크코스 한 달 생활기       | [woowa-writing-2/level1](https://github.com/lxxjn0/woowa-writing-2/tree/level1/level-1) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/47) |
-|   2   | 우테코에서 찾은 나만의 효과적인 학습법 | [woowa-writing-2/level2](https://github.com/lxxjn0/woowa-writing-2/tree/level2/level-2) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/109) |
-|   3   |      팀 프로젝트가 나에게 남긴 것      | [woowa-writing-2/level3](https://github.com/lxxjn0/woowa-writing-2/tree/level3/level-3) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/156) |
-|   4   |    내가 꿈꾸는 프로그래머로서의 삶     | [woowa-writing-2/level4](https://github.com/lxxjn0/woowa-writing-2/blob/level4/level-4/README.md) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/204) |
+|   1   |      우아한테크코스 한 달 생활기       | [Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/13) |
+|   2   | 우아한 테크 코스에서 깨달은 학습 방법 | [Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/81) |
+|   3   |      팀 프로젝트가 나에게 남긴 것   | [Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/161) |
 
-<br/>
-
-## 🗃 Javable : 우아한테크코스 코드 리뷰 모음 블로그
-
-### 서비스
-
-- [Javable 블로그](https://woowacourse.github.io/javable/)
-
-### Github Repository
-
-- [javable](https://github.com/woowacourse/javable)
-
-### 활동 내용
-
-- [기능 구현 - 블로그 태그 및 페이지 기능](https://github.com/woowacourse/javable/pull/88)
-- [포스팅 - 하나의 테스트 케이스는 단위 기능 중 하나의 시나리오만 테스트하라](https://woowacourse.github.io/javable/2020-04-24/one-test-must-check-one-scenario)
-- [포스팅 - 메서드 시그니처를 수정하여 테스트하기 좋은 메서드로 만들기](https://woowacourse.github.io/javable/2020-05-07/appropriate_method_for_test_by_parameter)
-- [포스팅 - 인터페이스를 분리하여 테스트하기 좋은 메서드로 만들기](https://woowacourse.github.io/javable/2020-05-17/appropriate_method_for_test_by_interface)
-- [포스팅 - 반복적으로 사용되는 인스턴스 캐싱하기](https://woowacourse.github.io/javable/2020-06-24/caching-instance)
-- [포스팅 - 왜 Constructor Injection을 사용해야 하는가?](https://woowacourse.github.io/javable/2020-07-18/di-constuctor-injection)
-- [포스팅 - else 예약어를 쓰지 않는다](https://woowacourse.github.io/javable/2020-07-29/dont-use-else)
-- [포스팅 - 사용성을 고려해 객체를 설계하자](https://woowacourse.github.io/javable/2020-08-18/plan-reusable-object)
-- [포스팅 - Java의 문자열을 파해치자!](https://woowacourse.github.io/javable/2020-09-07/dive-into-java-string)
-- [포스팅 - 테스트 더블에 대해 알아보자](#)
-- [포스팅 - Mockito와 BDDMockito의 차이](#)
-- [포스팅 - 코드 커버리지란](#)
-- [기능 구현 - 새로운 블로그 테마 적용](#)
- -->
