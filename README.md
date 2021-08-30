@@ -179,7 +179,7 @@
 
 ### 진행 미션
 
-| Level |                 Topic                  |                          Repository                          |                         Pull Request                         |
+| Level |                 Topic                  |                         Pull Request                         |
 | :---: | :------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |   1   |      우아한테크코스 한 달 생활기       | [Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/13) |
 |   2   | 우아한 테크 코스에서 깨달은 학습 방법 | [Pull Request](https://github.com/woowacourse/woowa-writing-3/pull/81) |
