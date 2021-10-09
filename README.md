@@ -130,8 +130,9 @@
 
 - [1차 데모 - 서비스 및 팀 소개, 팀 문화](https://www.youtube.com/watch?v=A_CtcuMcieY)
 - [2차 데모 - 계획한 이슈 목록 및 완료 목록, Git 브랜치 전략, API 설계](https://www.youtube.com/watch?v=ysz3Zbiy11I)
-- [3차 데모 - WS+WAS 연결, API 문서화, 테스트 전략, 로깅 - 해당 발표 직접 담당✋](https://www.youtube.com/watch?v=RjfRiJBg65M)
-- [최종 데모 - 다라쓰 (준비중)](...)
+- **[3차 데모 - WS+WAS 연결, API 문서화, 테스트 전략, 로깅 - 해당 발표 직접 담당✋](https://www.youtube.com/watch?v=RjfRiJBg65M)**
+- [4차 데모 - 테스트 자동화, CloudWatch logs 대시보드를 구성](https://www.youtube.com/watch?v=_Rolldacpik)
+- **[5차 데모 - 추가된 기능 소개, 성능 개선 사항 - 해당 발표 직접 담당✋](https://www.youtube.com/watch?v=SaF-LEq3vxg)**
 
 <br/>
 
@@ -156,6 +157,12 @@
 |       Project        |                          Repository                          |                         Pull Request                         |
 | :------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |     HTTP 서버 구현하기 / step1     | [jwp-dashboard-http/step1](https://github.com/jaeseongdev/jwp-dashboard-http/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/10) |
+|     HTTP 서버 구현하기 / step2     | [jwp-dashboard-http/step2](https://github.com/jaeseongdev/jwp-dashboard-http/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-http/pull/53) |
+|     MVC 프레임워크 구현하기 / step1     | [jwp-dashboard-mvc/step1](https://github.com/jaeseongdev/jwp-dashboard-mvc/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/5) |
+|     MVC 프레임워크 구현하기 / step2     | [jwp-dashboard-mvc/step2](https://github.com/jaeseongdev/jwp-dashboard-mvc/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/86) |
+|     JDBC 라이브러리 구현하기 / step1, step2     | [jwp-dashboard-jdbc/step1](https://github.com/jaeseongDev/jwp-dashboard-jdbc/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/30) |
+
+
 
 <br/>
 
