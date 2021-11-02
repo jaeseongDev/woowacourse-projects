@@ -161,6 +161,8 @@
 |     MVC 프레임워크 구현하기 / step1     | [jwp-dashboard-mvc/step1](https://github.com/jaeseongdev/jwp-dashboard-mvc/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/5) |
 |     MVC 프레임워크 구현하기 / step2     | [jwp-dashboard-mvc/step2](https://github.com/jaeseongdev/jwp-dashboard-mvc/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-mvc/pull/86) |
 |     JDBC 라이브러리 구현하기 / step1, step2     | [jwp-dashboard-jdbc/step1](https://github.com/jaeseongDev/jwp-dashboard-jdbc/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/30) |
+|     레거시 코드 리팩터링 / step1     | [jwp-refactoring/step1](https://github.com/jaeseongDev/jwp-refactoring/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/113) |
+|     레거시 코드 리팩터링 / step2     | [jwp-refactoring/step2](https://github.com/jaeseongDev/jwp-refactoring/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/134) |
 
 
 
